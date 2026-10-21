@@ -1,0 +1,6 @@
+# GitHub organization name
+github_owner = "YOUR_ORG"
+
+# Enable only after CI checks are working
+# in all coding repositories.
+enable_required_checks = false
